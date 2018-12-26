@@ -1,0 +1,61 @@
+[11:13:PM] Started thread for accepting clients
+[11:13:PM] Generating jobs...
+[11:13:PM] Found solution to 25 - solution: 5, found by client null
+[11:13:PM] Done generating jobs, generated 7821 jobs
+[11:14:PM] Connected to /172.16.0.211, client 0
+[11:14:PM] Client 0 received job 1763 (7-42) Job ID: 0
+[11:14:PM] Client 0 finished job 1763 (7-42) Job ID: 0 with result 43
+[11:14:PM] Found solution to 1763 - solution: 43, found by client 0
+[11:14:PM] Client 0 received job 132317 (7-363) Job ID: 1
+[11:14:PM] Client 0 finished job 132317 (7-363) Job ID: 1 with result 307
+[11:14:PM] Found solution to 132317 - solution: 307, found by client 0
+[11:14:PM] Client 0 received job 7525031 (7-2743) Job ID: 2
+[11:14:PM] Client 0 finished job 7525031 (7-2743) Job ID: 2 with result 2309
+[11:14:PM] Found solution to 7525031 - solution: 2309, found by client 0
+[11:14:PM] Client 0 received job 443724821 (7-21064) Job ID: 3
+[11:14:PM] Client 0 finished job 443724821 (7-21064) Job ID: 3 with result 17929
+[11:14:PM] Found solution to 443724821 - solution: 17929, found by client 0
+[11:14:PM] Client 0 received job 29809546181 (7-172654) Job ID: 4
+[11:14:PM] Client 0 finished job 29809546181 (7-172654) Job ID: 4 with result 140417
+[11:14:PM] Found solution to 29809546181 - solution: 140417, found by client 0
+[11:14:PM] Client 0 received job 2292010858019 (7-1513938) Job ID: 5
+[11:14:PM] Client 0 finished job 2292010858019 (7-1513938) Job ID: 5 with result 1508141
+[11:14:PM] Found solution to 2292010858019 - solution: 1508141, found by client 0
+[11:14:PM] Client 0 received job 158586252892033 (7-12593103) Job ID: 6
+[11:14:PM] Client 0 finished job 158586252892033 (7-12593103) Job ID: 6 with result 11990749
+[11:14:PM] Found solution to 158586252892033 - solution: 11990749, found by client 0
+[11:14:PM] Client 0 received job 10445331345154549 (7-102202403) Job ID: 7
+[11:14:PM] Client 0 finished job 10445331345154549 (7-102202403) Job ID: 7 with result 86764163
+[11:14:PM] Found solution to 10445331345154549 - solution: 86764163, found by client 0
+[11:14:PM] Client 0 received job 974899407670713299 (7-987369944) Job ID: 8
+[11:14:PM] Client 0 finished job 974899407670713299 (7-987369944) Job ID: 8 with result 976878547
+[11:14:PM] Found solution to 974899407670713299 - solution: 976878547, found by client 0
+[11:14:PM] Client 0 received job 53618438341576147867 (7-7322461221) Job ID: 9
+[11:17:PM] Client 0 finished job 53618438341576147867 (7-7322461221) Job ID: 9 with result null
+[11:17:PM] Client 0 received job 3718944099182247774821 (7-60983146025) Job ID: 10
+[11:17:PM] Client 0 finished job 3718944099182247774821 (7-60983146025) Job ID: 10 with result 6883392721
+[11:17:PM] Found solution to 3718944099182247774821 - solution: 6883392721, found by client 0
+[11:17:PM] Client 0 received job 183498523218870879915331 (7-428367276083) Job ID: 11
+[11:23:PM] Connected to /172.16.2.12, client 1
+[11:23:PM] Client 1 received job 13570779442424630235973817 (7-3683853884510) Job ID: 12
+[11:26:PM] Connected to /172.16.2.96, client 2
+[11:26:PM] Client 2 received job 544331142254325181623234599 (7-23330905302930) Job ID: 13
+[11:28:PM] Connected to /172.16.2.17, client 3
+[11:28:PM] Client 3 received job 41481398665845593775382278677 (7-203669827578474) Job ID: 14
+[11:37:PM] Connected to /172.16.1.172, client 4
+[11:37:PM] Client 4 received job 4500099375551403087517007143393 (7-2121343766472422) Job ID: 15
+[11:41:PM] Connected to /172.16.1.86, client 5
+[11:41:PM] Client 5 received job 197212517757652073672983322799911 (7-14043237438626894) Job ID: 16
+[12:04:AM] Client 0 finished job 183498523218870879915331 (7-428367276083) Job ID: 11 with result 57536693939
+[12:04:AM] Found solution to 183498523218870879915331 - solution: 57536693939, found by client 0
+[12:04:AM] Client 0 received job 11605715583227979544554987165360181 (7-107729826804037792) Job ID: 17
+[1:12:AM] Client 2 disconnected!
+[7:05:AM] Client 0 finished job 11605715583227979544554987165360181 (7-107729826804037792) Job ID: 17 with result 413404394657
+[7:05:AM] Found solution to 11605715583227979544554987165360181 - solution: 413404394657, found by client 0
+[7:05:AM] Client 0 received job 544331142254325181623234599 (7-23330905302930) Job ID: 13
+[9:10:AM] Closing Server with exit command
+[9:10:AM] Client 0 signaled to exit program
+[9:10:AM] Client 1 signaled to exit program
+[9:10:AM] Client 3 signaled to exit program
+[9:10:AM] Client 4 signaled to exit program
+[9:10:AM] Client 5 signaled to exit program
